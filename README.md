@@ -9,9 +9,13 @@ de dos textos de Philip K. Dick (si te gustan los autores de ciencia ficción qu
 
 Algunas notas :
 
+Ambos textos pueden encontrarse en el repositorio. Su formato es .txt (texto plano) y están descargados de la página 
+https://www.gutenberg.org/ Entiendo que ambos textos están abiertos a su uso público. Si hay algún problema, por favor, hacédmelo saber y los retiraré
+
 En el eje y de la gráfica podemos ver las frecuencias relativas de las palabras usadas en cada texto.
 En el eje x las longitudes ordenadas de las palabras usadas en los textos.
 
 Hay que tener en cuenta que ambos textos no tienen por qué usar palabras de la misma longitud, es decir, en el primero podemos tener algún vocablo de longitud 23 y en el segundo no. Para una comparación precisa hay que descartar todas las longitudes que no sean comunes. Así mismo, al tener las obras diferentes longitudes, uso frecuencias relativas para poder comparar.
 
-Obviamente el código necesita mucha revisión, ya que se ha "hardcodeado" el uso de dos archivos, repitiendo muchas líneas y probablemente hay conversiones de tipos innecesarias, pero ¡hey!, es tan solo una prueba de concepto :D
+Obviamente el código necesita mucha revisión, ya que se ha "hardcodeado" el uso de dos archivos, repitiendo muchas líneas y probablemente hay conversiones de tipos innecesarias. Estoy más que convencido de que no se puede obtener un patrón fiable con tan solo dos textos, pero ¡hey!, es tan solo una prueba de concepto :D
+
